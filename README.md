@@ -10,9 +10,9 @@ A simple portfolio starter theme built with Vue.js v3, Composition API and Tailw
 
 ## Other versions of this project
 
--   Nuxt.js Version: [https://github.com/realstoman/nuxtjs-tailwindcss-portfolio](https://github.com/realstoman/nuxtjs-tailwindcss-portfolio)
--   React Version: [https://github.com/realstoman/react-tailwindcss-portfolio](https://github.com/realstoman/react-tailwindcss-portfolio)
--   Next.js Version: [https://github.com/realstoman/nextjs-tailwindcss-portfolio](https://github.com/realstoman/nextjs-tailwindcss-portfolio)
+-   Nuxt.js Version: [https://github.com/aun143/nuxtjs-tailwindcss-portfolio](https://github.com/aun143/nuxtjs-tailwindcss-portfolio)
+-   React Version: [https://github.com/aun143/react-tailwindcss-portfolio](https://github.com/aun143/react-tailwindcss-portfolio)
+-   Next.js Version: [https://github.com/aun143/nextjs-tailwindcss-portfolio](https://github.com/aun143/nextjs-tailwindcss-portfolio)
 
 ## Features
 
@@ -32,7 +32,7 @@ A simple portfolio starter theme built with Vue.js v3, Composition API and Tailw
 -   Scroll to top button
 -   Download file button
 
-### To Contribute to this project, read the [Contribution Guidlines](https://github.com/realstoman/vuejs-tailwindcss-portfolio/blob/main/CONTRIBUTING.md)
+### To Contribute to this project, read the [Contribution Guidlines](https://github.com/aun143/)
 
 ## Setup
 
@@ -49,7 +49,7 @@ brew install node
 2. Clone the repo:
 
 ```
-git clone https://github.com/realstoman/vuejs-tailwindcss-portfolio.git
+git clone https://github.com/aun143
 ```
 
 3. Open the project folder:
@@ -74,7 +74,7 @@ npm run serve
 
 -   Always run `npm install` after pulling new changes
 -   I'll be constantly updating this repo as I'll be adding more sections to it, so please always check the projects section of this repo to see what tasks are under todo and in progress
--   Coming Soon [I'll be doing a screencast](https://www.youtube.com/realstoman). Soon I'll be uploading a video to my YouTube channel where I'll be going through the process of creating this portoflio
+-   Coming Soon [I'll be doing a screencast]. Soon I'll be uploading a video to my YouTube channel where I'll be going through the process of creating this portoflio
 -   Illustrations from [unDraw](https://undraw.co) and [Freepik](https://freepik.com)
 -   Images from [Unsplash](https://unsplash.com)
 -   Feel free to use it as your own portfolio
@@ -82,4 +82,4 @@ npm run serve
 
 ### License
 
-[MIT](https://github.com/realstoman/vuejs-tailwindcss-portfolio/blob/main/LICENSE)
+[MIT](https://github.com/aun143)
